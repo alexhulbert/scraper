@@ -1,0 +1,5 @@
+git+https://github.com/willforde/kodi-addondev@9ea4359#egg=kodi-addondev
+gitpython==2.1.15
+imdbpy==2020.9.25
+lxml==4.6.2
+requests==2.25.0
